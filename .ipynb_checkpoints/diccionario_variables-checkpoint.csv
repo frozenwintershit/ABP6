@@ -1,0 +1,5 @@
+Variable,Tipo,Descripción,Unidad de Medida
+id_estudiante,Cuantitativa Discreta,Identificador único del alumno.,N/A
+habito_actividad,Cualitativa Nominal,Categoría del estudiante: Deportista o Sedentario.,N/A
+horas_sueno,Cuantitativa Continua,Promedio de horas de descanso diario reportadas.,Horas
+puntuacion_estres,Cuantitativa Discreta,Nivel de estrés percibido en escala de 1 a 10.,Puntos
